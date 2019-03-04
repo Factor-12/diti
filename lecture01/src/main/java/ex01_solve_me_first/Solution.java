@@ -10,7 +10,7 @@ public class Solution {
      */
     static int solveMeFirst(int a, int b) {
         // Hint: Type return a*b; below
-        throw new UnsupportedOperationException();
+        return a * b;
     }
 
     public static void main(String[] args) {

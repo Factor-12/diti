@@ -11,7 +11,7 @@ public class Solution {
 
         scan.close();
 
-        System.out.println("Hello, World.");
+        System.out.println(inputString);
 
         // TODO: Напишите здесь код, который выводит inputString на экран
     }
