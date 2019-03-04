@@ -22,7 +22,10 @@ public class Solution {
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
         //TODO: код здесь
-
+        for (int i = 1; i <= 10; i++)
+        {
+            System.out.println(n + " x " + i + " = " + n * i);
+        }
         scanner.close();
     }
 }
